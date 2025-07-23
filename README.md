@@ -49,6 +49,3 @@ This project demonstrates how to build a professional and interactive Excel dash
 
 Simulated coffee sales data including customer profiles, product details, and transactional orders.
 
----
-
-Let me know if you'd like a resume bullet, a LinkedIn version, or README integration help!
