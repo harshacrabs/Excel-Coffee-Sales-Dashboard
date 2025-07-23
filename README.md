@@ -49,3 +49,8 @@ This project demonstrates how to build a professional and interactive Excel dash
 
 Simulated coffee sales data including customer profiles, product details, and transactional orders.
 
+## [Youtube Demonstration](https://youtu.be/dx_9ipNJ3eU?feature=shared)
+
+
+<img width="1106" height="537" alt="excel_dashboard" src="https://github.com/user-attachments/assets/fcdd0658-d8ac-4ff5-8e83-7423c8a2053b" />
+
